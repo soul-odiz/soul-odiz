@@ -2,7 +2,10 @@
 - 👀 I’m interested in AI score based systems
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my emotional ai project
-- 📫 How to reach me: discord-soul_may_cry #1481
+- 📫 How to reach me:
+- discord-soul_may_cry #1481
+- LinkedIn-https://www.linkedin.com/in/soul-odiz-790555258
+- 
 
 <!---
 hello, i have built a strong structure for a new way of importing different personality traits based on a score system and prefixed values. 
